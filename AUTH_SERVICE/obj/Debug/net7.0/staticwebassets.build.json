@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ie/LBRsodHx1CZBcU3U2vk9F6Dp8zHNaIiPVpkBWSNM=",
+  "Source": "AUTH_SERVICE",
+  "BasePath": "_content/AUTH_SERVICE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
